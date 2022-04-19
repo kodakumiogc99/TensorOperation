@@ -15,6 +15,6 @@
 - 簡化問題: n=1, k=3, l=1, d=1，於是 X=(1,3,1,1), A=(3,3)
 ![alt text](./MatMulandEinsum/Simple.png)
 
-- 計算 $H = X^T\times A$
+- 計算 <img src="https://render.githubusercontent.com/render/math?math=H=X^T\times A">
 ![alt text](./MatMulandEinsum/XTA.png)
 
