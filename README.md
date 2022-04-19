@@ -17,3 +17,6 @@
 * ![alt text](./MatMulandEinsum/ATX.png)
 * 計算 einsum(NKLD, KJ->NJLD)
 * ![alt text](./MatMulandEinsum/Einsum.png)
+
+* Here are simple result from MatMulandEinsum.py
+* ![alt text](./MatMulandEinsum/Result.png)
