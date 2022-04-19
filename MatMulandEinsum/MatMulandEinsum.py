@@ -23,3 +23,9 @@ print('='*40)
 print(f'NKLD, KJ->NJLD:\n{einsum.numpy()}\nShape:{einsum.shape}')
 print('='*40)
 
+c = torch.tensor(np.random.randint(10, size=(2, 3,3)), dtype=torch.int32)
+print(c.numpy())
+print(b.numpy())
+
+d = torch.einsum('nkld, ikj->nijld', [b, c])
+print(d.numpy())
