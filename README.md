@@ -13,3 +13,7 @@
 * ![alt text](./MatMulandEinsum/Simple.png)
 * 計算<img alt="H=X^T\times A" src="https://render.githubusercontent.com/render/math?math=H%3DX%5ET%5Ctimes%20A" style="transform: translateY(20%);" />
 * ![alt text](./MatMulandEinsum/XTA.png)
+* 計算 <img alt="H=A^T\times X" src="https://render.githubusercontent.com/render/math?math=H%3DA%5ET%5Ctimes%20X" style="transform: translateY(20%);" />
+* ![alt text](./MatMulandEinsum/ATX.png)
+* 計算 einsum(NKLD, KJ->NJLD)
+* ![alt text](./MatMulandEinsum/Einsum.png)
